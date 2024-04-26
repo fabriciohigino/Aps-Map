@@ -1,9 +1,9 @@
-package Testes;
+package Restaurante;
 
-class Bartender implements Observador {
+class Estoque implements Observador {
  private String nome;
 
- public Bartender(String nome) {
+ public Estoque(String nome) {
      this.nome = nome;
  }
 
@@ -12,4 +12,3 @@ class Bartender implements Observador {
      System.out.println(nome + " recebeu atualização: " + mensagem);
  }
 }
-

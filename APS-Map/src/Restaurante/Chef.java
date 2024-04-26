@@ -1,4 +1,4 @@
-package Testes;
+package Restaurante;
 
 class Chef implements Observador {
  private String nome;

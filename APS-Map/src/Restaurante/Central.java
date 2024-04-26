@@ -1,4 +1,4 @@
-package Testes;
+package Restaurante;
 
 import java.util.ArrayList;
 import java.util.List;

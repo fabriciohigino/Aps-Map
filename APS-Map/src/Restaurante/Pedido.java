@@ -1,4 +1,4 @@
-package Testes;
+package Restaurante;
 
 class Pedido extends Central {
  private String status;
