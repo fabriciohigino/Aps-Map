@@ -1,6 +1,5 @@
 package Testes;
 
-
 class Estoque implements Observador {
  private String nome;
 

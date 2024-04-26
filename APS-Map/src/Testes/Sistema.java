@@ -9,6 +9,7 @@ public class Sistema {
      Estoque estoque = new Estoque("Gerente de Estoque Ana");
 
      // Adicionar observadores
+     // classa maes medotodos 
      pedido.adicionarObservador(chef);
      pedido.adicionarObservador(bartender);
      pedido.adicionarObservador(estoque);
